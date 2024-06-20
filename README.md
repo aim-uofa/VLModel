@@ -102,7 +102,7 @@ torchrun --nproc-per-node=8 third_party/VLMEvalKit/run.py --data MMBench_DEV_EN 
 
 The results are shown below:
 
-| Benchmark       | Our MethodName | LLaVA-Llama3-v1.1 | LLaVA-Next |
+| Benchmark       | Our Method | LLaVA-Llama3-v1.1 | LLaVA-Next |
 |-----------------|----------------|-------------------|------------|
 | MMMU val        | **37.8**       | 36.8              | 36.9       |
 | SEEDBench img   | **71.0**       | 70.1              | 70.0       |
