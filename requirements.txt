@@ -27,3 +27,4 @@ typing_extensions==4.7.1
 validators
 visual_genome
 xlsxwriter
+accelerate
