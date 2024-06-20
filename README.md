@@ -20,7 +20,7 @@ This is the official implementation of HawkLlama, an open-source multimodal larg
 
 3. HawkLlama-8B is developed on [NeMo](https://github.com/NVIDIA/NeMo.git) framework, which facilitates 3D parallelism and offers scalability potential for future extension.
 
-Our model is open-source and reproducable. Please check our [technical report](assets/technical_report.pdf) for more details. 
+Our model is open-source and reproducible. Please check our [technical report](assets/technical_report.pdf) for more details. 
 
 
 <!-- ## News
