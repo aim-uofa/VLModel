@@ -2,7 +2,7 @@
 <img src="assets/logo.png" alt="Lit-LLaMA" width="200"/>
 
 # HawkLlama
-[🤗**Huggingface**](https://huggingface.co/AIM-ZJU/HawkLlama_8b) | [🗂️**Github**](https://github.com/aim-uofa/VLModel)  | [📖**Technical Report**](assets/technical_report.pdf)
+[🤗**Huggingface Model**](https://huggingface.co/AIM-ZJU/HawkLlama_8b) | [🗂️**Github**](https://github.com/aim-uofa/VLModel)  | [📖**Technical Report**](assets/technical_report.pdf) | [🎮️**Demo**](http://115.236.57.99:30020/)
 
 Zhejiang University, China
 
