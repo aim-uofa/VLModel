@@ -129,6 +129,3 @@ For commercial use, please contact [Chunhua Shen](chhshen@gmail.com).
 
 We express our appreciation to the following projects for their outstanding contributions in academia and code development: [LLaVA](https://github.com/haotian-liu/LLaVA), [NeMo](https://github.com/NVIDIA/NeMo), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) and [xtuner](https://github.com/InternLM/xtuner).
 
-## License
-
-HawkLlama is released under the [Apache 2.0](https://github.com/Lightning-AI/lightning-llama/blob/main/LICENSE) license.
