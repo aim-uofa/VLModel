@@ -1,0 +1,82 @@
+[
+    {
+        "prompt": "Is the cyclist on the left or right side of the woman's handbag? Show me how you get the answer.",
+        "image": "1.jpg"
+    },
+    {
+        "prompt": "Convert it to latex equation.",
+        "image": "2.png"
+    },
+    {
+        "prompt": "Describe this image in detail.",
+        "image": "3.jpg"
+    },
+    {
+        "prompt": "What texts are in this image?",
+        "image": "4.png"
+    },
+    {
+        "prompt": "What is in the picture?",
+        "image": "5.jpg"
+    },
+    {
+        "prompt": "What is funny about this image? Describe it panel by panel.",
+        "image": "6.png"
+    },
+    {
+        "prompt": "Can the two puzzles be combined together?",
+        "image": "7.png"
+    },
+    {
+        "prompt": "How many people and dogs are in this picture?",
+        "image": "8.png"
+    },
+    {
+        "prompt": "Convert this table into markdown table format.",
+        "image": "9.png"
+    },
+    {
+        "prompt": "What is this place?",
+        "image": "10.jpg"
+    },
+    {
+        "prompt": "What can we know about this image?",
+        "image": "11.png"
+    },
+    {
+        "prompt": "What is funny about this image? Describe it panel by panel.",
+        "image": "12.jpg"
+    },
+    {
+        "prompt": "What is unusual about this image?",
+        "image": "13.jpg"
+    },
+    {
+        "prompt": "Describe this image",
+        "image": "14.png"
+    },
+    {
+        "prompt": "This is an infrared image. Please describe the number of pedestrians and their location in the image for me.",
+        "image": "15.png"
+    },
+    {
+        "prompt": "What texts are in this image?",
+        "image": "16.png"
+    },
+    {
+        "prompt": "who are they?",
+        "image": "17.png"
+    },
+    {
+        "prompt": "read the image and solve it step by step",
+        "image": "18.jpeg"
+    },
+    {
+        "prompt": "Please read the text in this image and return the information in the following JSON format (note xxx is placeholder, if the information is not available in the image, put “N/A” instead). {“class”: xxx, “DLN”: xxx, “DOB”: xxx, “Name”: xxx, “Address”: xxx, “EXP”: xxx, “ISS”: xxX, “SEX”: xxx, “HGT”: xxx, “WGT”: xxx, “EYES”: xxx, “HAIR”: xxX, “DONOR”: xxx}",
+        "image": "19.jpg"
+    },
+    {
+        "prompt": "Do you know who drew this painting?",
+        "image": "20.jpg"
+    }
+]

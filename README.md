@@ -114,6 +114,11 @@ The results are shown below:
 | HallusionBench  | 41.0           | **47.7**          | 35.2       |
 | MMStar          | 43.0           | **45.1**          | 38.1       |
 
+
+## Training
+
+See [train with NeMo](NeMo/README.md).
+
 ## Demo
 
 Welcome to try our [demo](http://115.236.57.99:30020/)!
